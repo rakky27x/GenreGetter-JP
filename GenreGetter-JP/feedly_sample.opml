@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>rakky27x subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="test" title="test">
+            <outline type="rss" text="ギズモード・ジャパン" title="ギズモード・ジャパン" xmlUrl="http://www.gizmodo.jp/index.xml" htmlUrl="https://www.gizmodo.jp"/>
+            <outline type="rss" text="AKIBA PC Hotline!" title="AKIBA PC Hotline!" xmlUrl="http://akiba-pc.watch.impress.co.jp/cda/rss/akiba-pc.rdf" htmlUrl="https://akiba-pc.watch.impress.co.jp"/>
+            <outline type="rss" text="telektlist" title="telektlist" xmlUrl="http://telektlist.com/feed/" htmlUrl="https://telektlist.com"/>
+            <outline type="rss" text="ASUS好きのZenBlog（ゼンブログ）" title="ASUS好きのZenBlog（ゼンブログ）" xmlUrl="http://asus.blog.jp/index.rdf" htmlUrl="https://asus.blog.jp/"/>
+            <outline type="rss" text="モバイルドットコム" title="モバイルドットコム" xmlUrl="http://www.mobile-com.net/feed" htmlUrl="https://www.mobile-com.net"/>
+            <outline type="rss" text="はやぽんログ！" title="はやぽんログ！" xmlUrl="https://www.hayaponlog.site/rss" htmlUrl="https://www.hayaponlog.site/"/>
+            <outline type="rss" text="すまほん!!" title="すまほん!!" xmlUrl="https://smhn.info/feed" htmlUrl="https://smhn.info"/>
+            <outline type="rss" text="│xPeria lEaker" title="│xPeria lEaker" xmlUrl="https://gazyekichi96.com/feed/" htmlUrl="https://gazyekichi96.com"/>
+            <outline type="rss" text="テクノエッジ TechnoEdge" title="テクノエッジ TechnoEdge" xmlUrl="https://www.techno-edge.net/rss20/index.rdf" htmlUrl="https://www.techno-edge.net/"/>
+            <outline type="rss" text="ITmedia NEWS 最新記事一覧" title="ITmedia NEWS 最新記事一覧" xmlUrl="http://rss.itmedia.co.jp/rss/1.0/news_bursts.xml" htmlUrl="https://www.itmedia.co.jp/news/"/>
+            <outline type="rss" text="ゼンブログのASUS以外" title="ゼンブログのASUS以外" xmlUrl="http://jibarareview.blog.jp/index.rdf" htmlUrl="https://jibarareview.blog.jp/"/>
+            <outline type="rss" text="ひゅでポン" title="ひゅでポン" xmlUrl="https://hyudaepon.net/feed/" htmlUrl="https://hyudaepon.net"/>
+            <outline type="rss" text="PC Watch" title="PC Watch" xmlUrl="http://pc.watch.impress.co.jp/sublink/pc.rdf" htmlUrl="https://pc.watch.impress.co.jp"/>
+            <outline type="rss" text="GIGAZINE" title="GIGAZINE" xmlUrl="http://gigazine.net/index.php?/news/rss_2.0/" htmlUrl="https://gigazine.net/"/>
+        </outline>
+    </body>
+</opml>
